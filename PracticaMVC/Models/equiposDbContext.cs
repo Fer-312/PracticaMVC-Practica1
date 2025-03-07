@@ -7,7 +7,7 @@ namespace PracticaMVC.Models
         {
 
         }
-        public DbSet<marcas> nombreclase { get; set; }
+        public DbSet<marcas> marcas { get; set; }
 
     }
 }
